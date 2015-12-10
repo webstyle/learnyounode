@@ -1,3 +1,6 @@
+/**
+ * Baby step
+ */
 var pro = process.argv;
 var mul = 0;
 
