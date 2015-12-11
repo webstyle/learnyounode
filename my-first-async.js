@@ -1,3 +1,7 @@
+/**
+ * My FIRST ASYNC I/O.
+ * fs.readFile()
+ */
 var fs = require('fs');
 var file = process.argv['2'];
 
